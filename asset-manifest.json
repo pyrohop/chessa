@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/chessa/static/css/main.5e7feb3c.css",
+    "main.css": "/chessa/static/css/main.5ebfbc57.css",
     "main.js": "/chessa/static/js/main.75cf282d.js",
     "static/js/576.075c09fb.chunk.js": "/chessa/static/js/576.075c09fb.chunk.js",
     "static/js/453.31584edb.chunk.js": "/chessa/static/js/453.31584edb.chunk.js",
@@ -25,13 +25,13 @@
     "static/media/angles-left.svg": "/chessa/static/media/angles-left.96ba253b92a1f9ef266ec36011283214.svg",
     "static/media/angle-right.svg": "/chessa/static/media/angle-right.08582549269015de47a8f6eea74e8bc2.svg",
     "static/media/angle-left.svg": "/chessa/static/media/angle-left.6985619410149434d2a82fb55e28ab86.svg",
-    "main.5e7feb3c.css.map": "/chessa/static/css/main.5e7feb3c.css.map",
+    "main.5ebfbc57.css.map": "/chessa/static/css/main.5ebfbc57.css.map",
     "main.75cf282d.js.map": "/chessa/static/js/main.75cf282d.js.map",
     "576.075c09fb.chunk.js.map": "/chessa/static/js/576.075c09fb.chunk.js.map",
     "453.31584edb.chunk.js.map": "/chessa/static/js/453.31584edb.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5e7feb3c.css",
+    "static/css/main.5ebfbc57.css",
     "static/js/main.75cf282d.js"
   ]
 }
