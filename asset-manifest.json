@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/chessa/static/css/main.8e8aef34.css",
+    "main.js": "/chessa/static/js/main.f058b05e.js",
+    "static/js/576.075c09fb.chunk.js": "/chessa/static/js/576.075c09fb.chunk.js",
+    "static/js/453.31584edb.chunk.js": "/chessa/static/js/453.31584edb.chunk.js",
+    "static/media/mymodule.wasm": "/chessa/static/media/mymodule.c867875654219086cc68.wasm",
+    "static/media/chess_merida_unicode.ttf": "/chessa/static/media/chess_merida_unicode.92fbf19324ab34284132.ttf",
+    "static/media/Chess_rdt45.svg": "/chessa/static/media/Chess_rdt45.fdc575582c2cbe2ec82093702945226f.svg",
+    "static/media/Chess_ndt45.svg": "/chessa/static/media/Chess_ndt45.7930be9e07b51bc0e069b1d77e31261a.svg",
+    "static/media/Chess_kdt45.svg": "/chessa/static/media/Chess_kdt45.6c8cc8fabe5215cc854dec67ee7781fd.svg",
+    "static/media/Chess_qdt45.svg": "/chessa/static/media/Chess_qdt45.cf388bf415c0d33ec16f23593b8d0d91.svg",
+    "static/media/Chess_nlt45.svg": "/chessa/static/media/Chess_nlt45.d47944d2cee4f8c707d1907706c142fa.svg",
+    "static/media/Chess_bdt45.svg": "/chessa/static/media/Chess_bdt45.04932f63ef10dcdee115b649286230f5.svg",
+    "static/media/Chess_blt45.svg": "/chessa/static/media/Chess_blt45.aa411d5809c6380713b4312d55aafc53.svg",
+    "static/media/Chess_rlt45.svg": "/chessa/static/media/Chess_rlt45.9e48b84f189eea24339f8a679e7a664f.svg",
+    "static/media/Chess_qlt45.svg": "/chessa/static/media/Chess_qlt45.7a1aecff0f22ff68c43f9b7f8a81d0b4.svg",
+    "static/media/arrows-rotate.svg": "/chessa/static/media/arrows-rotate.edd83a5b63aa9d78d55ccd025afbfc90.svg",
+    "static/media/Chess_pdt45.svg": "/chessa/static/media/Chess_pdt45.be5d44ca5ee868885d216188996e3a00.svg",
+    "static/media/Chess_plt45.svg": "/chessa/static/media/Chess_plt45.50273cc6d86861932d0a01c38274009a.svg",
+    "index.html": "/chessa/index.html",
+    "static/media/Chess_klt45.svg": "/chessa/static/media/Chess_klt45.5d58f1999749c1b5ef5bc1699c38b2f7.svg",
+    "static/media/book.svg": "/chessa/static/media/book.ac555069a60615d800a2bbcfac8906f3.svg",
+    "static/media/angles-right.svg": "/chessa/static/media/angles-right.ec7d4301412c95a560532ebaaaa69a0a.svg",
+    "static/media/angles-left.svg": "/chessa/static/media/angles-left.96ba253b92a1f9ef266ec36011283214.svg",
+    "static/media/angle-right.svg": "/chessa/static/media/angle-right.08582549269015de47a8f6eea74e8bc2.svg",
+    "static/media/angle-left.svg": "/chessa/static/media/angle-left.6985619410149434d2a82fb55e28ab86.svg",
+    "main.8e8aef34.css.map": "/chessa/static/css/main.8e8aef34.css.map",
+    "main.f058b05e.js.map": "/chessa/static/js/main.f058b05e.js.map",
+    "576.075c09fb.chunk.js.map": "/chessa/static/js/576.075c09fb.chunk.js.map",
+    "453.31584edb.chunk.js.map": "/chessa/static/js/453.31584edb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8e8aef34.css",
+    "static/js/main.f058b05e.js"
+  ]
+}
