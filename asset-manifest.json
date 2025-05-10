@@ -1,10 +1,10 @@
 {
   "files": {
     "main.css": "/chessa/static/css/main.9249ab3e.css",
-    "main.js": "/chessa/static/js/main.1e96f320.js",
-    "static/js/576.9557ae68.chunk.js": "/chessa/static/js/576.9557ae68.chunk.js",
+    "main.js": "/chessa/static/js/main.f4f56ea8.js",
+    "static/js/576.812f93fa.chunk.js": "/chessa/static/js/576.812f93fa.chunk.js",
     "static/js/453.31584edb.chunk.js": "/chessa/static/js/453.31584edb.chunk.js",
-    "static/media/mymodule.wasm": "/chessa/static/media/mymodule.422b2111673bf50003a6.wasm",
+    "static/media/mymodule.wasm": "/chessa/static/media/mymodule.84f5e0ad7f1c322f7b87.wasm",
     "static/media/chess_merida_unicode.ttf": "/chessa/static/media/chess_merida_unicode.92fbf19324ab34284132.ttf",
     "static/media/Chess_rdt45.svg": "/chessa/static/media/Chess_rdt45.fdc575582c2cbe2ec82093702945226f.svg",
     "static/media/Chess_ndt45.svg": "/chessa/static/media/Chess_ndt45.7930be9e07b51bc0e069b1d77e31261a.svg",
@@ -27,12 +27,12 @@
     "static/media/angle-right.svg": "/chessa/static/media/angle-right.08582549269015de47a8f6eea74e8bc2.svg",
     "static/media/angle-left.svg": "/chessa/static/media/angle-left.6985619410149434d2a82fb55e28ab86.svg",
     "main.9249ab3e.css.map": "/chessa/static/css/main.9249ab3e.css.map",
-    "main.1e96f320.js.map": "/chessa/static/js/main.1e96f320.js.map",
-    "576.9557ae68.chunk.js.map": "/chessa/static/js/576.9557ae68.chunk.js.map",
+    "main.f4f56ea8.js.map": "/chessa/static/js/main.f4f56ea8.js.map",
+    "576.812f93fa.chunk.js.map": "/chessa/static/js/576.812f93fa.chunk.js.map",
     "453.31584edb.chunk.js.map": "/chessa/static/js/453.31584edb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9249ab3e.css",
-    "static/js/main.1e96f320.js"
+    "static/js/main.f4f56ea8.js"
   ]
 }
